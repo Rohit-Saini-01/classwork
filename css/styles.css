@@ -11,7 +11,7 @@ p {
   text-decoration: underline;
   text-align: center;
 } */
-
+/* 
 body {
   background-color: blue;
 }
@@ -51,4 +51,20 @@ body {
   height: 100px;
   background-color: white;
   transform: skew(-20deg);
+} */
+
+/* h1 {
+  color: rgb(0, 255, 0);
+  color: rgb(0,0,0);
+  color: rgb(255, 255, 255);
+  color: rgb(238, 108, 32);
+
+  color: #fff;
+  color: #000;
+  color: #0f0;
+  color: #df721f;
+} */
+
+p{
+  text-shadow: 50px 3px;
 }
