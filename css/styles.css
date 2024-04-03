@@ -1,4 +1,4 @@
-body {
+/* body {
   background-color: yellow;
 }
 
@@ -17,7 +17,7 @@ h1 {
 p {
   font-size: 25px;
   text-decoration: underline;
-}
+} */
 
 /* #submit-button {
   background-color: red;
@@ -28,3 +28,27 @@ p {
 /* 1. Leave notes for yourself
 2. TO mark TO DO: 
 3. TO leave notes for other developers */
+
+.circle {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  background-color: lightgreen;
+}
+
+.ellipse {
+  margin-top: 50px;
+  width: 150px;
+  height: 100px;
+  background-color: orange;
+  border-radius: 50%;
+}
+
+.rhombus {
+  margin-top: 50px;
+  margin-left: 20px;
+  width: 100px;
+  height: 100px;
+  background-color: tomato;
+  transform: skew(-20deg);
+}
