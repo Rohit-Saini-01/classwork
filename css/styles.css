@@ -1,4 +1,4 @@
-/* body {
+body {
   background-color: yellow;
 }
 
@@ -8,7 +8,8 @@ h1 {
 }
 
 h1 {
-
+  padding: 20px 0;
+  border: 2px solid black;
   font-size: 50px;
   color: green;
 }
@@ -16,12 +17,12 @@ h1 {
 p {
   font-size: 25px;
   text-decoration: underline;
-} */
+}
 
-#submit-button {
+/* #submit-button {
   background-color: red;
   ;
-}
+} */
 
 /* CSS Comments are used to: */
 /* 1. Leave notes for yourself
