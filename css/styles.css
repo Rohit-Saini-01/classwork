@@ -100,7 +100,7 @@ div {
   border-radius: 10px;
 } */
 
-a:link {
+/* a:link {
   color: green;
   text-decoration: none;
 }
@@ -115,4 +115,21 @@ a:hover {
 
 a:active {
   color: blue;
+} */
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+#footnote {
+  font-size: 8px;
+}
+
+input[type=email] {
+  background-color: blueviolet;
+}
+
+.main-info {
+  color: red;
 }
