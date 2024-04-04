@@ -29,7 +29,7 @@ p {
 2. TO mark TO DO: 
 3. TO leave notes for other developers */
 
-.circle {
+/* .circle {
   width: 100px;
   height: 100px;
   border-radius: 50%;
@@ -51,4 +51,11 @@ p {
   height: 100px;
   background-color: tomato;
   transform: skew(-20deg);
+} */
+
+h1 {
+  color: rgb(0, 255, 0);
+  color: rgb(255, 255, 255);
+  color: rgb(0, 0, 0);
+  color: rgb(205, 110, 21);
 }
