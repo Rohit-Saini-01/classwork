@@ -54,8 +54,14 @@ p {
 } */
 
 h1 {
-  color: rgb(0, 255, 0);
+  /* color: rgb(0, 255, 0);
   color: rgb(255, 255, 255);
   color: rgb(0, 0, 0);
-  color: rgb(205, 110, 21);
+  color: rgb(205, 110, 21); */
+
+  /* Using HEX Colors  */
+  color: #00ff00;
+  color: #fff;
+  color: #000;
+  color: #eb8e43;
 }
