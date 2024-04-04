@@ -53,15 +53,35 @@ p {
   transform: skew(-20deg);
 } */
 
-h1 {
-  /* color: rgb(0, 255, 0);
+/* h1 {
+  color: rgb(0, 255, 0);
   color: rgb(255, 255, 255);
   color: rgb(0, 0, 0);
-  color: rgb(205, 110, 21); */
+  color: rgb(205, 110, 21);
 
-  /* Using HEX Colors  */
+  Using HEX Colors 
   color: #00ff00;
   color: #fff;
   color: #000;
-  color: #eb8e43;
+  color: #eb8e43; 
+}  */
+
+/* .block {
+  height: 100px;
+  width: 200px;
+  background-color: rgba(31, 109, 152, 0.5);
+} */
+
+.gradient {
+  width: 400px;
+  height: 300px;
+  background-image: linear-gradient(green, blue);
+  background-image: linear-gradient(to right, green, blue);
+  background-image: linear-gradient(37deg, green, blue);
+}
+
+.repeating-gradient {
+  width: 400px;
+  height: 300px;
+  background-image: repeating-linear-gradient(green 10%, blue 20%);
 }
