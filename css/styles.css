@@ -117,7 +117,7 @@ a:active {
   color: blue;
 } */
 
-* {
+/* * {
   margin: 0;
   padding: 0;
 }
@@ -132,4 +132,36 @@ input[type=email] {
 
 .main-info {
   color: red;
+} */
+
+.wrapper {
+  position: relative;
+  left: 25px;
+}
+
+.green-circle,
+.blue-circle,
+.red-circle {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  position: absolute;
+
+}
+
+.green-circle {
+  background-color: darkcyan;
+  z-index: 1;
+}
+
+.blue-circle {
+  background-color: lightgreen;
+  z-index: 0;
+  top: 75px;
+}
+
+.red-circle {
+  background-color: crimson;
+  z-index: -1;
+  top: 150px;
 }
