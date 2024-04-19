@@ -153,14 +153,14 @@ input[type=email] {
   z-index: 1;
 }
 
-.blue-circle {
+/* .blue-circle {
   background-color: lightgreen;
   z-index: 0;
   top: 75px;
-}
+} */
 
-/* .red-circle {
+.red-circle {
   background-color: crimson;
   z-index: -1;
   top: 150px;
-} */
+}
