@@ -139,19 +139,19 @@ input[type=email] {
   left: 25px;
 }
 
-.green-circle,
+/* .green-circle,
 .blue-circle,
 .red-circle {
   width: 100px;
   height: 100px;
   border-radius: 50%;
   position: absolute;
-}
+} */
 
-/* .green-circle {
+.green-circle {
   background-color: darkcyan;
   z-index: 1;
-} */
+}
 
 .blue-circle {
   background-color: lightgreen;
