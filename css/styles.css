@@ -148,16 +148,16 @@ input[type=email] {
   position: absolute;
 }
 
-.green-circle {
+/* .green-circle {
   background-color: darkcyan;
   z-index: 1;
-}
+} */
 
-/* .blue-circle {
+.blue-circle {
   background-color: lightgreen;
   z-index: 0;
   top: 75px;
-} */
+}
 
 .red-circle {
   background-color: crimson;
